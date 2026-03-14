@@ -259,3 +259,25 @@ Expected result:
 - Include chain ID in QR verification URL to avoid network mismatch.
 - Add retry/backoff around relayer and RPC calls.
 - Move from single relayer secret to signed issuer-wallet transactions (or custody model with role controls).
+
+---
+
+## 👥 Contributors
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/hadi-abdulla-01">
+<img src="https://github.com/hadi-abdulla-01.png" width="100px;" alt="Hadi"/><br />
+<sub><b>Mohammed Hadi Abdulla</b></sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/ishashahul">
+<img src="https://github.com/ishashahul.png" width="100px;" alt="Isha"/><br />
+<sub><b>Isha Shahul Kodavandy</b></sub>
+</a>
+</td>
+</tr>
+</table>
